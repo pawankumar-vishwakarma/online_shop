@@ -1,4 +1,4 @@
-# Online Shop 🛍️ for Hackathon Phase 1
+# Online Shop – Hackathon Phase 1 Submission
 
 
 ## 📋 Steps to Set Up and Run the Project
